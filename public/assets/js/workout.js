@@ -12,6 +12,7 @@ async function initWorkout() {
       numExercises: lastWorkout.exercises.length,
       ...tallyExercises(lastWorkout.exercises)
     };
+    console.log("WORKOUT SUMMARY" + JSON.stringify(workoutSummary))
 
     renderWorkoutSummary(workoutSummary);
   } else {
