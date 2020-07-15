@@ -4,7 +4,7 @@
 For this project I built a a workout tracker using MongoDB. Users can enter the details of their workout and add additional excercises to their workout. Once they click complete workout they can vew stats about their workout. 
 
 # **Live Link**
-[Heroku](https://agile-everglades-70833.herokuapp.com/)
+[Heroku](https://vibrant-baguette-29606.herokuapp.com/)
 
 # **Screencaps:**
 ![Landing](./public/assets/images/1.png)  
